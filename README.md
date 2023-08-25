@@ -1,4 +1,4 @@
-## Olá, meu nome é Erick, tenho 25 anos, treinando para ser front-end developer!🚀
+## Olá, meu nome é Erick, tenho 26 anos, front-end developer!🚀
 <div align="center">
   <a href="https://github.com/erickwilson">
 
