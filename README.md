@@ -8,3 +8,4 @@
 <!-- Snake animation -->
 ![Snake animation](https://raw.githubusercontent.com/erickwilson/erickwilson/output/github-contribution-grid-snake.svg)
 
+
